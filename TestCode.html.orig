@@ -1,10 +1,7 @@
 <p>This is a test to see if other people can edit this code by downloading it after Joe has moved it to github online</p>
 <p>If you are able to edit this, please type your name below this sentence</p>
 <p>it looks like we can use the terminal in visual studio to initialize and add files, and commit changes</p> 
-<<<<<<< HEAD
 <p> Olajide Yusuf</p>
 <p>Joe McCreesh</p>
-=======
 <p>Olajide Yusuf</p>
 <p>Maya Stevenson</p>
->>>>>>> ae22ea9a195a609f0534e0b60a32b99cef41e7a4
